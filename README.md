@@ -1,3 +1,10 @@
+# Install Windows 11
+[Download Rufus for Windows](https://rufus.ie/en/) 
+- Option A Select Windows Standard Installation (Dual Boot macOS/Windows) -> Tick bypass TPM 
+- Option B Select Windows to Go (External SSD) 
+ 
+- Option B is easier for beginners without partioning your drive
+
 # MacBook Pro 2017 Windows 11 Drivers
 
 ## Boot Camp Drivers
