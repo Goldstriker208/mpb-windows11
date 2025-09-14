@@ -3,7 +3,7 @@
 ## Boot Camp Drivers
 [Apple Support: Boot Camp Drivers](https://support.apple.com/en-us/102622)
 
-## Windows Precision Touchpad Drivers
+## Windows Precision Touchpad Drivers (for pre 2018 only)
 [GitHub: Mac Precision Touchpad](https://github.com/imbushuo/mac-precision-touchpad/releases/tag/2105-3979)
 
 ## Intel Graphics Drivers
